@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7104a8464A9d35395381173334d88B3b52B7bD0b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7104a8464a9d35395381173334d88b3b52b7bd0b",
+  "NETWORK": {
+    "NAME": "Solana",
+    "SYMBOL": "Sol",
+    "ID": 137
+  },
+  "NFT_NAME": "drivermfers",
+  "SYMBOL": "drivermfers",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 0.000005,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/drivermfers",
+  "SHOW_BACKGROUND": true
+}
